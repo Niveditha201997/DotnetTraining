@@ -1,0 +1,14 @@
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\bin\Debug\netcoreapp3.1\LinqHandOn3.exe
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\bin\Debug\netcoreapp3.1\LinqHandOn3.deps.json
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\bin\Debug\netcoreapp3.1\LinqHandOn3.runtimeconfig.json
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\bin\Debug\netcoreapp3.1\LinqHandOn3.runtimeconfig.dev.json
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\bin\Debug\netcoreapp3.1\LinqHandOn3.dll
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\bin\Debug\netcoreapp3.1\LinqHandOn3.pdb
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.csproj.AssemblyReference.cache
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.AssemblyInfoInputs.cache
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.AssemblyInfo.cs
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.csproj.CoreCompileInputs.cache
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.dll
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.pdb
+C:\CSharp\CSharptraining\LinqHandOn3\LinqHandOn3\obj\Debug\netcoreapp3.1\LinqHandOn3.genruntimeconfig.cache

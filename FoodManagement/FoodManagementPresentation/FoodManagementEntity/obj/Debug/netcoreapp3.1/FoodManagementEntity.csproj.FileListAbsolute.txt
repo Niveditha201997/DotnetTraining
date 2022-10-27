@@ -1,0 +1,13 @@
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\bin\Debug\netcoreapp3.1\FoodManagementEntity.deps.json
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\bin\Debug\netcoreapp3.1\FoodManagementEntity.runtimeconfig.json
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\bin\Debug\netcoreapp3.1\FoodManagementEntity.runtimeconfig.dev.json
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\bin\Debug\netcoreapp3.1\FoodManagementEntity.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\bin\Debug\netcoreapp3.1\FoodManagementEntity.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.csproj.AssemblyReference.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.AssemblyInfoInputs.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.AssemblyInfo.cs
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.csproj.CoreCompileInputs.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementEntity\obj\Debug\netcoreapp3.1\FoodManagementEntity.genruntimeconfig.cache

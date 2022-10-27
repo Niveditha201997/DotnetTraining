@@ -1,0 +1,15 @@
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\bin\Debug\netcoreapp3.1\FoodManagementBussiness.deps.json
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\bin\Debug\netcoreapp3.1\FoodManagementBussiness.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\bin\Debug\netcoreapp3.1\FoodManagementBussiness.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\bin\Debug\netcoreapp3.1\FoodManagementData.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\bin\Debug\netcoreapp3.1\FoodManagementEntity.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\bin\Debug\netcoreapp3.1\FoodManagementData.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\bin\Debug\netcoreapp3.1\FoodManagementEntity.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.csproj.AssemblyReference.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.AssemblyInfoInputs.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.AssemblyInfo.cs
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.csproj.CoreCompileInputs.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.csproj.CopyComplete
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementBussiness\obj\Debug\netcoreapp3.1\FoodManagementBussiness.pdb

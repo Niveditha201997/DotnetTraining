@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>CurrentTime : <output id="op"></output></h1>
+    <video width="550" height="400" loop poster="" id="vid">
+        <source src="html5.mp4">
+        <source src="html5.webm">
+    </video>
+    <button onclick="playvid()">play</button>
+    <button onclick="pausevid()">pause</button>
+    <button onclick="stopvid()">stop</button>
+    <button onclick="rewindvid()">rewind</button>
+  <script>
+         setInterval( function vid(){
+            document.getElementById("op").value=document.getElementById("vid").currentTime;
+        },10);
+        function playvid(){
+            document.getElementById("vid").play();
+        }
+        function pausevid(){
+            document.getElementById("vid").pause();
+        }
+        function stopvid(){
+            document.getElementById("vid").currentTime=0;
+            document.getElementById("vid").pause();
+        }
+        function rewindvid(){
+            document.getElementById("vid").currentTime=document.getElementById("vid").currentTime-0.5;
+        }
+        </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagementPresentation.csproj.AssemblyReference.cache
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagementPresentation.csproj.SuggestedBindingRedirects.cache
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagementPresentation.csproj.CoreCompileInputs.cache
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementBussiness.dll
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementEntity.dll
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementData.dll
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementBussiness.pdb
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementEntity.pdb
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementData.pdb
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagementPresentation.csproj.CopyComplete

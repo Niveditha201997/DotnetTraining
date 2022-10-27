@@ -1,0 +1,18 @@
+{
+"user":[
+   {
+	"name":"test",
+	"username":"test",
+	"email":"test@gmail",
+	"phone":"8988789882",
+	"id":"1"
+   },
+   {
+	"name":"Nive",
+	"username":"Nive123",
+	"email":"Nive@gmail",
+	"phone":"8988789881",
+	"id":"2"
+   }
+]
+}

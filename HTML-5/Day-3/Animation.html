@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #can{
+            border: 1px solid black;
+            margin: 50px auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="can" width="500" height="500"></canvas>
+    <script>
+        var boxX = -100;
+        var ctx = document.getElementById("can").getContext("2d");
+        setInterval(function(){
+            ctx.clearRect(0,0,500,500);
+            var red = Math.round(Math.random()*255);
+            var green = Math.round(Math.random()*255);
+            var blue = Math.round(Math.random()*255);
+            ctx.fillStyle = "rgb("+red+","+green+","+blue+")";
+            ctx.fillRect(boxX,0,100,100);
+            boxX+=10;
+            if(boxX > 500){
+                box = -100;
+            }
+        },50);
+    </script>
+</body>
+</html>

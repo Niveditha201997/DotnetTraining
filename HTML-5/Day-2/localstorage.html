@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function storeInfo(){
+            var info={
+                uname:document.getElementById("uname").value,
+                umail:document.getElementById("umail").value,
+                uphone:document.getElementById("uphone").value
+            };
+            // console.log("user Info",info);
+            localStorage.setItem("user ",JSON.stringify(info));
+        };
+        function clearInfo(){
+            localStorage.clear();
+        }
+    </script>
+</head>
+<body>
+    <table>
+        <tbody>
+            <tr>
+                <td> User Name</td>
+                <td><input name="uname" id="uname" type="text"/></td>
+            </tr>
+            <tr>
+                <td> User email</td>
+                <td><input name="umial" id="umail" type="email"/></td>
+            </tr>
+            <tr>
+                <td> User Phone</td>
+                <td><input name="uphone" id="uphone" type="tel"/></td>
+            </tr>
+            <tr>
+                <td> &nbsp; </td>
+                <td><input onclick="storeInfo()" type="submit" value="Store Info"/></td>
+            </tr>
+        </tbody>
+    </table> 
+    <button onclick="clearInfo()">clear</button>
+</body>
+</html>

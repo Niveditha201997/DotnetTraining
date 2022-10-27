@@ -1,0 +1,9 @@
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\bin\Debug\LibraryManagementData.dll
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\bin\Debug\LibraryManagementData.pdb
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\bin\Debug\LibraryManagementEntity.dll
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\bin\Debug\LibraryManagementEntity.pdb
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\obj\Debug\LibraryManagementData.csproj.AssemblyReference.cache
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\obj\Debug\LibraryManagementData.csproj.CoreCompileInputs.cache
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\obj\Debug\LibraryManagementData.csproj.CopyComplete
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\obj\Debug\LibraryManagementData.dll
+C:\projectlibrarymanagement\LibraryManagement\LibraryManagementData\obj\Debug\LibraryManagementData.pdb

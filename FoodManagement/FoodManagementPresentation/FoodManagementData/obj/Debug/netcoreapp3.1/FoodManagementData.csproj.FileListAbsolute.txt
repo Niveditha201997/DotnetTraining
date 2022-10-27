@@ -1,0 +1,16 @@
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\bin\Debug\netcoreapp3.1\FoodManagementData.deps.json
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\bin\Debug\netcoreapp3.1\FoodManagementData.runtimeconfig.json
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\bin\Debug\netcoreapp3.1\FoodManagementData.runtimeconfig.dev.json
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\bin\Debug\netcoreapp3.1\FoodManagementData.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\bin\Debug\netcoreapp3.1\FoodManagementData.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\bin\Debug\netcoreapp3.1\FoodManagementEntity.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\bin\Debug\netcoreapp3.1\FoodManagementEntity.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.csproj.AssemblyReference.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.GeneratedMSBuildEditorConfig.editorconfig
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.AssemblyInfoInputs.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.AssemblyInfo.cs
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.csproj.CoreCompileInputs.cache
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.csproj.CopyComplete
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.dll
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.pdb
+C:\FoodManagement\FoodManagementPresentation\FoodManagementData\obj\Debug\netcoreapp3.1\FoodManagementData.genruntimeconfig.cache
